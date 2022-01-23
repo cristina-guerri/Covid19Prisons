@@ -1,6 +1,6 @@
 # Covid19Prisons
 
-GÜERRI, Cristina; MARTÍ, Marta & PEDROSA, Albert. 2020. *Compilation of measures taken by prison administrations against COVID-19*.
+Güerri, C; Martí, M & Pedrosa, A. 2020. *Compilation of measures taken by prison administrations against COVID-19*.
 
 **COUNTRIES INCLUDED**
 
