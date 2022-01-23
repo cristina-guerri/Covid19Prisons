@@ -1,5 +1,7 @@
 # Covid19Prisons
 
+GÜERRI, Cristina; MARTÍ, Marta & PEDROSA, Albert. 2020. Compilation of measures taken by prison administrations against COVID-19
+
 **COUNTRIES INCLUDED**
 
 Every country with at least 500k inhabitants.
